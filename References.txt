@@ -1,0 +1,58 @@
+UI Elements
+
+https://openjfx.io/javadoc/18/javafx.controls/javafx/scene/control/TextArea.html
+https://www.javatpoint.com/javafx-passwordfield
+https://stackoverflow.com/questions/17799160/javafx-textarea-and-autoscroll - make my textarea scroll to the bottom 
+https://www.thegeekdiary.com/javafx-combobox-set-a-value-to-the-combo-box/
+
+
+Timestamps:
+
+https://www.javatpoint.com/java-get-current-date
+https://mkyong.com/java/how-to-get-current-timestamps-in-java/#java-timestamp-examples
+
+
+SQL:
+
+https://stackoverflow.com/questions/16920242/special-chars-in-java
+https://www.geeksforgeeks.org/how-to-use-preparedstatement-in-java/
+https://www.javatpoint.com/example-to-connect-to-the-mysql-database
+https://stackoverflow.com/questions/1905607/cannot-issue-data-manipulation-statements-with-executequery
+https://www.w3schools.com/sql/sql_and_or.asp
+
+
+Serialisation:
+https://www.digitalocean.com/community/tutorials/serialization-in-java
+
+
+
+Testing:
+https://www.javaguides.net/2018/09/junit-5-assertnotequals-example.html
+
+
+
+Getting IP address:
+https://www.baeldung.com/java-get-ip-address
+
+
+Encryption:
+
+https://howtodoinjava.com/java/array/convert-byte-array-string/ 
+
+DES/AES code from Ali's example
+Josh told me I could just change the DES getinstance from "DES" to "AES" to implement encryption with AES, so I did that.
+
+
+
+Thread Concurrency: 
+
+
+https://stackoverflow.com/questions/20497845/constantly-update-ui-in-java-fx-worker-thread 
+
+
+JavaFx Runnable Jar
+https://www.youtube.com/watch?v=lwOFg-W7OSM 
+
+
+
+
