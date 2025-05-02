@@ -4,7 +4,7 @@
 
 This is a student assignment project made in a limited amount of time, and has not been touched since. Naturally I expect there to be bugs.
 
-As such, this code is only being presented for demonstration purposes (for example data stored in the database is NOT encrypted). I strongly recommend you do not use
+As such, this code is only being presented for demonstration purposes (for example, data stored in the database is NOT encrypted). I strongly recommend you do not use
 this application for any real-world conversation!
 
 # Introduction:
